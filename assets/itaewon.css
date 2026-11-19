@@ -206,7 +206,8 @@ body.lang-first.page--itaewon .site-nav { margin-left: auto; }
   text-wrap: balance;
 }
 
-.it-sec h2 { font-size: clamp(1.7rem, 3.4vw, 3.1rem); }
+.it-sec h2 { font-size: clamp(1.72rem, 3.6vw, 3.4rem); }
+.it-split .it-head h2 { font-size: clamp(1.5rem, 2.4vw, 2.35rem); line-height: 1.26; }
 
 .it-sub {
   margin: 18px 0 0;
@@ -228,7 +229,7 @@ body.lang-first.page--itaewon .site-nav { margin-left: auto; }
   background: #fff;
 }
 .it-sec--panel { background: var(--it-panel); }
-.it-sec--flush { border-top: 0; }
+.it-sec--flush { border-top: 0; padding-top: clamp(24px, 3vw, 48px); }
 
 /* ---------- buttons ------------------------------------------------------ */
 
@@ -763,6 +764,30 @@ body.page--itaewon .it-badge { color: #fff; }
   gap: 10px;
   margin-top: 26px;
 }
+.it-apply-list {
+  list-style: none;
+  margin: 26px 0 0;
+  padding: 0;
+  border-top: 1px solid var(--it-line);
+}
+.it-apply-list li {
+  position: relative;
+  padding: 12px 0 12px 18px;
+  border-bottom: 1px solid var(--it-line);
+  font-size: 14px;
+  color: var(--it-body);
+}
+.it-apply-list li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 21px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--it-deep);
+}
+
 .it-contact-line {
   margin: 18px 0 0;
   font-size: 13.5px;
@@ -777,7 +802,7 @@ body.page--itaewon .it-badge { color: #fff; }
   padding: clamp(20px, 2.6vw, 32px);
 }
 .it-form fieldset { border: 0; margin: 0; padding: 0; }
-.it-form fieldset[disabled] { opacity: 0.62; }
+.it-form fieldset[disabled] { opacity: 0.82; }
 .it-form .fields { display: grid; gap: 12px; }
 .it-form label {
   display: block;
@@ -846,6 +871,13 @@ body.page--itaewon .footer-brand {
   letter-spacing: -0.02em;
   color: #fff;
   margin: 0 0 8px;
+}
+body.page--itaewon .site-footer .todo {
+  background: rgba(255, 255, 255, 0.12);
+  border: 0;
+  color: rgba(255, 255, 255, 0.72);
+  border-radius: 100px;
+  padding: 1px 9px;
 }
 body.page--itaewon .footer-legal {
   margin-top: 36px;
