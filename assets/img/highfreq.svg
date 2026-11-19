@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="고주파 관리를 파동 고리로 추상화한 일러스트">
+  <rect width="1200" height="760" fill="#f2ece2"/>
+  <circle cx="600" cy="390" r="300" fill="#efe3d1"/>
+  <g fill="none" stroke="#b99a72" stroke-linecap="round">
+    <circle cx="600" cy="390" r="60" stroke-width="6"/>
+    <circle cx="600" cy="390" r="120" stroke-width="4" opacity=".85"/>
+    <circle cx="600" cy="390" r="182" stroke-width="3" opacity=".65"/>
+    <circle cx="600" cy="390" r="246" stroke-width="2" opacity=".45"/>
+    <circle cx="600" cy="390" r="308" stroke-width="1.6" opacity=".3"/>
+  </g>
+  <circle cx="600" cy="390" r="26" fill="#8a6640"/>
+  <g stroke="#8a6640" stroke-width="3" fill="none" opacity=".6" stroke-linecap="round">
+    <path d="M600 60 v 54"/>
+    <path d="M600 720 v -54"/>
+    <path d="M240 390 h 54"/>
+    <path d="M960 390 h -54"/>
+  </g>
+  <text x="72" y="112" font-family="Georgia, serif" font-size="21" fill="#8a6640" letter-spacing="7">BALINESS</text>
+</svg>

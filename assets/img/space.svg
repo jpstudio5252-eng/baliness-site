@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="조용한 실내 공간을 선으로 표현한 추상 일러스트">
+  <rect width="1200" height="760" fill="#f2ece2"/>
+  <rect x="0" y="590" width="1200" height="170" fill="#ece3d6"/>
+  <g stroke="#c9b394" stroke-width="4" fill="none" stroke-linecap="round">
+    <rect x="130" y="150" width="300" height="360" rx="6"/>
+    <path d="M130 330 h 300"/>
+    <path d="M280 150 v 360"/>
+    <rect x="770" y="210" width="300" height="300" rx="6"/>
+    <path d="M770 360 h 300"/>
+  </g>
+  <path d="M520 590 V 250" stroke="#8a6640" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M430 250 h 180" stroke="#8a6640" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <circle cx="600" cy="250" r="22" fill="none" stroke="#8a6640" stroke-width="4"/>
+  <g stroke="#b99a72" stroke-width="2.5" fill="none" stroke-linecap="round" opacity=".7">
+    <path d="M380 470 q 110 -70 220 0 t 220 0"/>
+    <path d="M380 512 q 110 -70 220 0 t 220 0"/>
+  </g>
+  <text x="72" y="112" font-family="Georgia, serif" font-size="21" fill="#8a6640" letter-spacing="7">BALINESS</text>
+</svg>

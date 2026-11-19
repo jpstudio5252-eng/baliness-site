@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="슬링 끈과 파동선을 추상적으로 그린 일러스트">
+  <rect width="1200" height="760" fill="#f2ece2"/>
+  <circle cx="960" cy="150" r="230" fill="#efe3d1"/>
+  <g stroke="#c9b394" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M330 0 V250"/>
+    <path d="M870 0 V250"/>
+  </g>
+  <path d="M330 250 C 430 470, 520 520, 600 520 C 680 520, 770 470, 870 250"
+        fill="none" stroke="#8a6640" stroke-width="7" stroke-linecap="round"/>
+  <path d="M330 250 C 430 440, 520 490, 600 490 C 680 490, 770 440, 870 250"
+        fill="none" stroke="#b99a72" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+  <path d="M405 388 C 470 470, 540 486, 600 486 C 660 486, 730 470, 795 388"
+        fill="none" stroke="#d8c5a8" stroke-width="2.5" stroke-dasharray="7 9" stroke-linecap="round"/>
+  <g stroke="#8a6640" stroke-width="2.5" fill="none" opacity=".55" stroke-linecap="round">
+    <path d="M150 640 q 40 -34 80 0 t 80 0 t 80 0"/>
+    <path d="M150 680 q 40 -34 80 0 t 80 0 t 80 0"/>
+  </g>
+  <g stroke="#c9b394" stroke-width="2" fill="none" opacity=".7">
+    <circle cx="960" cy="150" r="86"/>
+    <circle cx="960" cy="150" r="140"/>
+    <circle cx="960" cy="150" r="196"/>
+  </g>
+  <text x="72" y="112" font-family="Georgia, serif" font-size="21" fill="#8a6640" letter-spacing="7">BALINESS</text>
+</svg>
