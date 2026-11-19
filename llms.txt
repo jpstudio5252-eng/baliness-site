@@ -1,19 +1,19 @@
 # 발리너스 스파 (BALINESS SPA)
 
 > 슬링·고주파 체형 밸런스 케어.
-> 발리너스 스파는 슬링·고주파 기반의 1:1 체형 밸런스 스튜디오입니다. 용산 본점은 통증 관리·자세 교정·체형 교정, 이태원·한남점은 붓기·부종 관리·다이어트 케어를 앞세우며 2027년 2월 중순 문을 엽니다.
+> 발리너스 스파는 슬링·고주파 기반의 1:1 체형 밸런스 스튜디오입니다. 용산 본점은 통증 관리·자세 교정·체형 교정, 이태원점은 붓기·부종 관리·다이어트 케어를 앞세우며 2027년 2월 중순 문을 엽니다.
 
 ## 지점
 
-- 발리너스 본점 (용산) — 운영 중. 중점: 통증 관리·자세 교정·체형 교정. 서울특별시 용산구 서빙고로 17 효성해링턴스퀘어 C동 2층 (호수 확인 중). 전화 010-4317-1960. 영업시간 확인 중. https://jpstudio5252-eng.github.io/baliness-site/yongsan/
-- 발리너스 이태원·한남점 — 2027년 2월 중순 오픈 예정. 중점: 붓기·부종 관리·다이어트 케어. 서비스는 본점과 같은 슬링·고주파 기반. 주소·전화·영업시간·가격 미확정(확정 후 공지). https://jpstudio5252-eng.github.io/baliness-site/hannam/
+- 발리너스 본점 (용산) — 운영 중. 중점: 통증 관리·자세 교정·체형 교정. 서울특별시 용산구 서빙고로 17 효성해링턴스퀘어 C동 2층 (호수 확인 중). 전화 010-8054-1122. 영업시간 확인 중. https://jpstudio5252-eng.github.io/baliness-site/yongsan/
+- 발리너스 이태원점 — 2027년 2월 중순 오픈 예정. 중점: 붓기·부종 관리·다이어트 케어. 서비스는 본점과 같은 슬링·고주파 기반. 주소·전화·영업시간·가격 미확정(확정 후 공지). https://jpstudio5252-eng.github.io/baliness-site/hannam/
 
 ## 프로그램
 
 - 슬링 체형 밸런스 케어 (슬링 파동 케어): 발로 파동을 전달하는 슬링 바디워크 방식의 1:1 프로그램. 구성과 강도는 상담에서 정함.
 - 고주파 체형 밸런스 케어: 미용기기 허가 제품으로 진행. 의료 행위 아님.
-- 붓기·부종 관리: 자주 붓는 분들을 위한 관리. (한남점 중심)
-- 다이어트 케어: 몸의 균형과 함께 다이어트를 관리하고 싶은 분들을 위한 케어. 식사·운동을 대신하지 않음. (한남점 중심)
+- 붓기·부종 관리: 자주 붓는 분들을 위한 관리. (이태원점 중심)
+- 다이어트 케어: 몸의 균형과 함께 다이어트를 관리하고 싶은 분들을 위한 케어. 식사·운동을 대신하지 않음. (이태원점 중심)
 - 통증 관리·자세 교정·체형 교정: 목·어깨가 굳은 분, 자세가 무너진 느낌이 드는 분들을 위한 1:1 프로그램. (본점 중심)
 - T.S.W: 발리너스에서 함께 운영하는 프로그램. 구성·대상은 상담에서 안내.
 - 모든 프로그램은 1:1로, 그날 상태에 맞춰 강도와 순서를 조정.
@@ -26,23 +26,23 @@
 
 - 브랜드 소개(한국어): https://jpstudio5252-eng.github.io/baliness-site/
 - 본점(한국어): https://jpstudio5252-eng.github.io/baliness-site/yongsan/
-- 이태원·한남점(한국어): https://jpstudio5252-eng.github.io/baliness-site/hannam/
+- 이태원점(한국어): https://jpstudio5252-eng.github.io/baliness-site/hannam/
 - English home: https://jpstudio5252-eng.github.io/baliness-site/en/
 - Yongsan (English): https://jpstudio5252-eng.github.io/baliness-site/en/yongsan/
-- Itaewon·Hannam (English): https://jpstudio5252-eng.github.io/baliness-site/en/hannam/
+- Itaewon (English, near Hannam): https://jpstudio5252-eng.github.io/baliness-site/en/hannam/
 
-## English keywords (Itaewon · Hannam)
+## English keywords (Itaewon · Hannam area)
 
 - swelling care, bloating relief care, puffiness care, body & diet care, pain care, posture correction, body alignment, sling body balance care, high-frequency body balance care
 
 ## 문의
 
-- 전화 010-4317-1960 · 이메일 jpstudio5252@naver.com
+- 전화 010-8054-1122 · 이메일 jpstudio5252@naver.com
 
 ## 아직 확인되지 않은 정보 (추측 금지)
 
 - 본점 실제 호수(92호/93호 표기가 갈림), 실제 영업시간, 주차 가능 여부, 가까운 역·도보 시간
-- 한남점 주소·전화·영업시간·가격·평수·오픈 확정일
+- 이태원점 주소·전화·영업시간·가격·평수·오픈 확정일
 - 위 항목은 이 사이트에 '준비 중'으로 표시되어 있으며, 확정 전 값을 만들어 쓰지 않습니다.
 
 ## 표현 기준
