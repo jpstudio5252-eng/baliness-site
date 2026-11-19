@@ -1,18 +1,20 @@
 # 발리너스 스파 (BALINESS SPA)
 
 > 슬링·고주파 체형 밸런스 케어.
-> 발리너스 스파는 서울 용산의 1:1 체형 밸런스 스튜디오입니다. 슬링과 고주파 관리를 중심으로 하며, 2027년 2월 중순 이태원·한남점이 문을 엽니다.
+> 발리너스 스파는 슬링·고주파 기반의 1:1 체형 밸런스 스튜디오입니다. 용산 본점은 통증 관리·자세 교정·체형 교정, 이태원·한남점은 붓기·부종 관리·다이어트 케어를 앞세우며 2027년 2월 중순 문을 엽니다.
 
 ## 지점
 
-- 발리너스 본점 (용산) — 운영 중. 서울특별시 용산구 서빙고로 17 효성해링턴스퀘어 C동 2층 (호수 확인 중). 전화 010-3209-3894. 영업시간 확인 중. https://jpstudio5252-eng.github.io/baliness-site/yongsan/
-- 발리너스 이태원·한남점 — 2027년 2월 중순 오픈 예정. 본점과 같은 슬링·고주파 체형 밸런스 케어를 중심으로 운영하며 붓기·부종 관리도 함께 준비. 주소·전화·영업시간·가격 미확정(확정 후 공지). https://jpstudio5252-eng.github.io/baliness-site/hannam/
+- 발리너스 본점 (용산) — 운영 중. 중점: 통증 관리·자세 교정·체형 교정. 서울특별시 용산구 서빙고로 17 효성해링턴스퀘어 C동 2층 (호수 확인 중). 전화 010-3209-3894. 영업시간 확인 중. https://jpstudio5252-eng.github.io/baliness-site/yongsan/
+- 발리너스 이태원·한남점 — 2027년 2월 중순 오픈 예정. 중점: 붓기·부종 관리·다이어트 케어. 서비스는 본점과 같은 슬링·고주파 기반. 주소·전화·영업시간·가격 미확정(확정 후 공지). https://jpstudio5252-eng.github.io/baliness-site/hannam/
 
 ## 프로그램
 
 - 슬링 체형 밸런스 케어 (슬링 파동 케어): 발로 파동을 전달하는 슬링 바디워크 방식의 1:1 프로그램. 구성과 강도는 상담에서 정함.
 - 고주파 체형 밸런스 케어: 미용기기 허가 제품으로 진행. 의료 행위 아님.
 - 붓기·부종 관리: 자주 붓는 분들을 위한 관리. (한남점 중심)
+- 다이어트 케어: 몸의 균형과 함께 다이어트를 관리하고 싶은 분들을 위한 케어. 식사·운동을 대신하지 않음. (한남점 중심)
+- 통증 관리·자세 교정·체형 교정: 목·어깨가 굳은 분, 자세가 무너진 느낌이 드는 분들을 위한 1:1 프로그램. (본점 중심)
 - T.S.W: 발리너스에서 함께 운영하는 프로그램. 구성·대상은 상담에서 안내.
 - 모든 프로그램은 1:1로, 그날 상태에 맞춰 강도와 순서를 조정.
 
@@ -31,7 +33,7 @@
 
 ## English keywords (Itaewon · Hannam)
 
-- swelling care, bloating relief care, puffiness care, sling body balance care, high-frequency body balance care
+- swelling care, bloating relief care, puffiness care, body & diet care, pain care, posture correction, body alignment, sling body balance care, high-frequency body balance care
 
 ## 문의
 
