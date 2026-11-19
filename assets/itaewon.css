@@ -172,7 +172,9 @@ body.lang-first.page--itaewon .site-nav { margin-left: auto; }
   transition: background 0.18s ease, color 0.18s ease;
 }
 .it-header-cta:hover { background: var(--it-ink); color: #fff; }
+.it-header-cta .cta-short { display: none; }
 .it-header-cta svg { width: 14px; height: 14px; }
+.nb { white-space: nowrap; }
 .it-header-cta .arrow { transition: transform 0.18s ease; }
 .it-header-cta:hover .arrow { transform: translateX(3px); }
 
@@ -184,6 +186,11 @@ body.lang-first.page--itaewon .site-nav { margin-left: auto; }
   body.page--itaewon .brand-sub { display: none; }
   .it-header-cta { padding: 8px 14px; font-size: 12px; }
   .it-header-cta svg { display: none; }
+}
+
+@media (max-width: 460px) {
+  .it-header-cta .cta-long { display: none; }
+  .it-header-cta .cta-short { display: inline; }
 }
 
 /* ---------- type --------------------------------------------------------- */
