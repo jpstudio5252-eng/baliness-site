@@ -178,7 +178,9 @@ body.lang-first.page--itaewon .site-nav { margin-left: auto; }
 
 @media (max-width: 700px) {
   body.page--itaewon .header-inner { min-height: 58px; }
-  body.page--itaewon .site-nav { order: 5; width: 100%; justify-content: flex-start; margin-left: 0; }
+  body.page--itaewon .brand { margin-right: auto; }
+  body.page--itaewon.lang-first .lang-switch--lg { order: 0; margin-left: 0; }
+  body.page--itaewon .site-nav { order: 5; width: 100%; justify-content: flex-start; margin-left: 0; border-top: 1px solid var(--it-line); padding-top: 6px; }
   body.page--itaewon .brand-sub { display: none; }
   .it-header-cta { padding: 8px 14px; font-size: 12px; }
   .it-header-cta svg { display: none; }
