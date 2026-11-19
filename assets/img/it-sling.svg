@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" role="img" aria-label="슬링 끈과 발로 전하는 파동선을 추상적으로 그린 일러스트">
+  <g stroke="#0b2a6f" fill="none" stroke-linecap="round">
+    <path d="M250 -40 V232" stroke-width="2" opacity=".28"/>
+    <path d="M950 -40 V232" stroke-width="2" opacity=".28"/>
+    <path d="M250 232 C 385 486, 520 552, 600 552 C 680 552, 815 486, 950 232" stroke-width="7" opacity=".92"/>
+    <path d="M250 232 C 385 452, 520 516, 600 516 C 680 516, 815 452, 950 232" stroke-width="2" opacity=".42"/>
+  </g>
+  <circle cx="600" cy="552" r="9" fill="#0b2a6f"/>
+  <circle cx="600" cy="552" r="26" fill="none" stroke="#326bdb" stroke-width="1.6" opacity=".5"/>
+  <g stroke="#0b2a6f" fill="none" stroke-linecap="round" opacity=".55">
+    <path d="M120 700 q 60 -54 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0" stroke-width="2.2"/>
+    <path d="M120 744 q 60 -38 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0" stroke-width="1.6" opacity=".6"/>
+  </g>
+  <g fill="#0b2a6f" opacity=".18">
+    <circle cx="1050" cy="150" r="3"/>
+    <circle cx="1092" cy="196" r="2.2"/>
+    <circle cx="120" cy="300" r="2.6"/>
+    <circle cx="86" cy="352" r="2"/>
+  </g>
+</svg>
