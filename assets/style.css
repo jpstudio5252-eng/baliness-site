@@ -33,6 +33,8 @@ body {
   line-height: 1.78;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+  word-break: keep-all;
+  overflow-wrap: break-word;
 }
 
 img, svg { max-width: 100%; height: auto; display: block; }
@@ -230,7 +232,9 @@ h3 { font-size: 1.2rem; }
 .card .card-sub {
   font-size: 12px; letter-spacing: .08em; text-transform: uppercase;
   color: var(--accent-dark); font-weight: 700; margin-bottom: 10px;
+  display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
 }
+.card .card-todo { margin: 6px 0 0; }
 
 .branch-card { position: relative; }
 .branch-card img {
